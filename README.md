@@ -5,8 +5,13 @@ Nesse Repositório se econtra a API desenvolvida no curso de Spring Rest da Alga
 ## Tecnologias utilizadas
 
 - Java 11
-- Spring Web, Bean Validation e Exception Handler
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Bean Validation
+- ModelMapper
 - Gerenciador de pacotes Maven
 - Banco de Dados MySQL
+- Flyway
 
 ---
